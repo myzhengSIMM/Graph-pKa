@@ -28,9 +28,6 @@ Please cite our paper if you find it helpful. Thank you!
 
 Xiong, J.; Li, Z.; Wang, G.; Fu, Z.; Zhong, F.; Xu, T.; Liu, X.; Huang, Z.; Liu, X.; Chen, K.; Jiang, H.; Zheng, M. Multi-Instance Learning of Graph Neural Networks for Aqueous pKa Prediction. *Bioinformatics*, 2022, **38** (3), 792–798. https://doi.org/10.1093/bioinformatics/btab714
         
-        .
-
-
 ```
 @article{xiong2021multi,
     title={Multi-instance learning of graph neural networks for aqueous pKa prediction},
