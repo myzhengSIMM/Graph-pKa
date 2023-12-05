@@ -1,0 +1,155 @@
+﻿pKa error (calc - exp),Molecule ID,name,pKa (calc),pKa (exp),pKa ID,pKa SEM (calc),pKa SEM (exp),participant,receipt_id
+-0.41,SM01,Epik Scan,9.12,9.53,SM01_pKa1,1.12,0.01,Bas Rustenburg,nb007
+-0.98,SM02,Epik Scan,4.05,5.03,SM02_pKa1,1.47,0.01,Bas Rustenburg,nb007
+0.1,SM03,Epik Scan,7.12,7.02,SM03_pKa1,2.22,0.01,Bas Rustenburg,nb007
+-0.42,SM04,Epik Scan,5.6,6.02,SM04_pKa1,1.13,0.01,Bas Rustenburg,nb007
+0.76,SM05,Epik Scan,5.35,4.59,SM05_pKa1,2.22,0.01,Bas Rustenburg,nb007
+-0.85,SM06,Epik Scan,2.18,3.03,SM06_pKa1,1.12,0.04,Bas Rustenburg,nb007
+-1.41,SM06,Epik Scan,10.33,11.74,SM06_pKa2,2.22,0.01,Bas Rustenburg,nb007
+-0.48,SM07,Epik Scan,5.6,6.08,SM07_pKa1,1.13,0.01,Bas Rustenburg,nb007
+-0.11,SM08,Epik Scan,4.11,4.22,SM08_pKa1,2.22,0.01,Bas Rustenburg,nb007
+-1.32,SM09,Epik Scan,4.05,5.37,SM09_pKa1,1.47,0.01,Bas Rustenburg,nb007
+-0.35,SM10,Epik Scan,8.67,9.02,SM10_pKa1,2.22,0.01,Bas Rustenburg,nb007
+-0.02,SM11,Epik Scan,3.87,3.89,SM11_pKa1,2,0.01,Bas Rustenburg,nb007
+-1.23,SM12,Epik Scan,4.05,5.28,SM12_pKa1,1.47,0.01,Bas Rustenburg,nb007
+-1.5,SM13,Epik Scan,4.27,5.77,SM13_pKa1,2.22,0.01,Bas Rustenburg,nb007
+1.05,SM14,Epik Scan,6.35,5.3,SM14_pKa2,2.22,0.01,Bas Rustenburg,nb007
+0.79,SM14,Epik Scan,3.37,2.58,SM14_pKa1,2.22,0.01,Bas Rustenburg,nb007
+1.12,SM15,Epik Scan,5.82,4.7,SM15_pKa1,1.12,0.01,Bas Rustenburg,nb007
+-0.23,SM15,Epik Scan,8.71,8.94,SM15_pKa2,1.47,0.01,Bas Rustenburg,nb007
+-0.66,SM16,Epik Scan,4.71,5.37,SM16_pKa1,0.94,0.01,Bas Rustenburg,nb007
+-0.8,SM16,Epik Scan,9.85,10.65,SM16_pKa2,2.22,0.01,Bas Rustenburg,nb007
+1.74,SM17,Epik Scan,4.9,3.16,SM17_pKa1,0.75,0.01,Bas Rustenburg,nb007
+0.33,SM18,Epik Scan,2.48,2.15,SM18_pKa1,2.22,0.02,Bas Rustenburg,nb007
+-0.2,SM18,Epik Scan,9.38,9.58,SM18_pKa2,2.22,0.03,Bas Rustenburg,nb007
+-0.52,SM18,Epik Scan,10.5,11.02,SM18_pKa3,2.22,0.04,Bas Rustenburg,nb007
+-0.39,SM19,Epik Scan,9.17,9.56,SM19_pKa1,2.22,0.02,Bas Rustenburg,nb007
+2.35,SM20,Epik Scan,8.05,5.7,SM20_pKa1,2.22,0.03,Bas Rustenburg,nb007
+-0.21,SM21,Epik Scan,3.89,4.1,SM21_pKa1,2.22,0.01,Bas Rustenburg,nb007
+1.16,SM22,Epik Scan,3.56,2.4,SM22_pKa1,1.4,0.02,Bas Rustenburg,nb007
+-0.64,SM22,Epik Scan,6.79,7.43,SM22_pKa2,0.86,0.01,Bas Rustenburg,nb007
+0.54,SM23,Epik Scan,5.99,5.45,SM23_pKa1,0.75,0.01,Bas Rustenburg,nb007
+1.39,SM24,Epik Scan,3.99,2.6,SM24_pKa1,2.22,0.01,Bas Rustenburg,nb007
+1.19,SM01,MoKa,10.72,9.53,SM01_pKa1,,0.01,Thomas Fox,nb017
+-0.14,SM02,MoKa,4.89,5.03,SM02_pKa1,,0.01,Thomas Fox,nb017
+-0.94,SM03,MoKa,6.08,7.02,SM03_pKa1,,0.01,Thomas Fox,nb017
+-0.91,SM04,MoKa,5.11,6.02,SM04_pKa1,,0.01,Thomas Fox,nb017
+-1.08,SM05,MoKa,3.51,4.59,SM05_pKa1,,0.01,Thomas Fox,nb017
+-1.17,SM06,MoKa,10.57,11.74,SM06_pKa2,,0.01,Thomas Fox,nb017
+1.05,SM06,MoKa,4.08,3.03,SM06_pKa1,,0.04,Thomas Fox,nb017
+-0.97,SM07,MoKa,5.11,6.08,SM07_pKa1,,0.01,Thomas Fox,nb017
+-1.47,SM08,MoKa,2.75,4.22,SM08_pKa1,,0.01,Thomas Fox,nb017
+-0.48,SM09,MoKa,4.89,5.37,SM09_pKa1,,0.01,Thomas Fox,nb017
+2.14,SM10,MoKa,11.16,9.02,SM10_pKa1,,0.01,Thomas Fox,nb017
+0.34,SM11,MoKa,4.23,3.89,SM11_pKa1,,0.01,Thomas Fox,nb017
+-0.39,SM12,MoKa,4.89,5.28,SM12_pKa1,,0.01,Thomas Fox,nb017
+-0.13,SM13,MoKa,5.64,5.77,SM13_pKa1,,0.01,Thomas Fox,nb017
+0.79,SM14,MoKa,6.09,5.3,SM14_pKa2,,0.01,Thomas Fox,nb017
+0.33,SM14,MoKa,2.91,2.58,SM14_pKa1,,0.01,Thomas Fox,nb017
+0.45,SM15,MoKa,9.39,8.94,SM15_pKa2,,0.01,Thomas Fox,nb017
+0.25,SM15,MoKa,4.95,4.7,SM15_pKa1,,0.01,Thomas Fox,nb017
+0.16,SM16,MoKa,10.81,10.65,SM16_pKa2,,0.01,Thomas Fox,nb017
+0.24,SM16,MoKa,5.61,5.37,SM16_pKa1,,0.01,Thomas Fox,nb017
+2.11,SM17,MoKa,5.27,3.16,SM17_pKa1,,0.01,Thomas Fox,nb017
+-0.98,SM18,MoKa,8.6,9.58,SM18_pKa2,,0.03,Thomas Fox,nb017
+-0.36,SM18,MoKa,10.66,11.02,SM18_pKa3,,0.04,Thomas Fox,nb017
+0.27,SM18,MoKa,2.42,2.15,SM18_pKa1,,0.02,Thomas Fox,nb017
+0.41,SM19,MoKa,9.97,9.56,SM19_pKa1,,0.02,Thomas Fox,nb017
+1.06,SM20,MoKa,6.76,5.7,SM20_pKa1,,0.03,Thomas Fox,nb017
+1.31,SM21,MoKa,5.41,4.1,SM21_pKa1,,0.01,Thomas Fox,nb017
+0.23,SM22,MoKa,7.66,7.43,SM22_pKa2,,0.01,Thomas Fox,nb017
+-0.4,SM22,MoKa,2,2.4,SM22_pKa1,,0.02,Thomas Fox,nb017
+0.61,SM23,MoKa,6.06,5.45,SM23_pKa1,,0.01,Thomas Fox,nb017
+1.51,SM24,MoKa,4.11,2.6,SM24_pKa1,,0.01,Thomas Fox,nb017
+-0.41,SM01,Epik Microscopic,9.12,9.53,SM01_pKa1,1.09,0.01,Bas Rustenburg,nb010
+-0.87,SM02,Epik Microscopic,4.16,5.03,SM02_pKa1,1.01,0.01,Bas Rustenburg,nb010
+0.1,SM03,Epik Microscopic,7.12,7.02,SM03_pKa1,1.98,0.01,Bas Rustenburg,nb010
+-0.41,SM04,Epik Microscopic,5.61,6.02,SM04_pKa1,1.12,0.01,Bas Rustenburg,nb010
+0.76,SM05,Epik Microscopic,5.35,4.59,SM05_pKa1,2.03,0.01,Bas Rustenburg,nb010
+-0.86,SM06,Epik Microscopic,2.17,3.03,SM06_pKa1,2.14,0.04,Bas Rustenburg,nb010
+-1.41,SM06,Epik Microscopic,10.33,11.74,SM06_pKa2,1.14,0.01,Bas Rustenburg,nb010
+-0.47,SM07,Epik Microscopic,5.61,6.08,SM07_pKa1,1.12,0.01,Bas Rustenburg,nb010
+-0.11,SM08,Epik Microscopic,4.11,4.22,SM08_pKa1,1.95,0.01,Bas Rustenburg,nb010
+-1.21,SM09,Epik Microscopic,4.16,5.37,SM09_pKa1,1.01,0.01,Bas Rustenburg,nb010
+-0.35,SM10,Epik Microscopic,8.67,9.02,SM10_pKa1,1.76,0.01,Bas Rustenburg,nb010
+-0.02,SM11,Epik Microscopic,3.87,3.89,SM11_pKa1,1.7,0.01,Bas Rustenburg,nb010
+-1.12,SM12,Epik Microscopic,4.16,5.28,SM12_pKa1,1.01,0.01,Bas Rustenburg,nb010
+-1.33,SM13,Epik Microscopic,4.44,5.77,SM13_pKa1,1.6,0.01,Bas Rustenburg,nb010
+-2.3,SM14,Epik Microscopic,0.28,2.58,SM14_pKa1,0.7,0.01,Bas Rustenburg,nb010
+1.05,SM14,Epik Microscopic,6.35,5.3,SM14_pKa2,1.97,0.01,Bas Rustenburg,nb010
+1.12,SM15,Epik Microscopic,5.82,4.7,SM15_pKa1,1.03,0.01,Bas Rustenburg,nb010
+-0.23,SM15,Epik Microscopic,8.71,8.94,SM15_pKa2,1.95,0.01,Bas Rustenburg,nb010
+-0.66,SM16,Epik Microscopic,4.71,5.37,SM16_pKa1,1.86,0.01,Bas Rustenburg,nb010
+-0.8,SM16,Epik Microscopic,9.85,10.65,SM16_pKa2,2.08,0.01,Bas Rustenburg,nb010
+1.74,SM17,Epik Microscopic,4.9,3.16,SM17_pKa1,0.75,0.01,Bas Rustenburg,nb010
+0.08,SM18,Epik Microscopic,2.23,2.15,SM18_pKa1,1.16,0.02,Bas Rustenburg,nb010
+-0.42,SM18,Epik Microscopic,9.16,9.58,SM18_pKa2,1.07,0.03,Bas Rustenburg,nb010
+-0.22,SM18,Epik Microscopic,10.8,11.02,SM18_pKa3,1.53,0.04,Bas Rustenburg,nb010
+-0.39,SM19,Epik Microscopic,9.17,9.56,SM19_pKa1,1.7,0.02,Bas Rustenburg,nb010
+2.35,SM20,Epik Microscopic,8.05,5.7,SM20_pKa1,2.26,0.03,Bas Rustenburg,nb010
+-0.2,SM21,Epik Microscopic,3.9,4.1,SM21_pKa1,1.71,0.01,Bas Rustenburg,nb010
+1.1,SM22,Epik Microscopic,3.5,2.4,SM22_pKa1,0.84,0.02,Bas Rustenburg,nb010
+-0.64,SM22,Epik Microscopic,6.79,7.43,SM22_pKa2,1.75,0.01,Bas Rustenburg,nb010
+0.55,SM23,Epik Microscopic,6,5.45,SM23_pKa1,0.9,0.01,Bas Rustenburg,nb010
+-1.96,SM24,Epik Microscopic,0.64,2.6,SM24_pKa1,0.71,0.01,Bas Rustenburg,nb010
+-0.09,SM01,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),9.44,9.53,SM01_pKa1,,0.01,Mehtap Isik,nb015
+-1.02,SM02,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.01,5.03,SM02_pKa1,,0.01,Mehtap Isik,nb015
+0.66,SM03,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),7.68,7.02,SM03_pKa1,,0.01,Mehtap Isik,nb015
+-1.19,SM04,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.83,6.02,SM04_pKa1,,0.01,Mehtap Isik,nb015
+-0.4,SM05,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.19,4.59,SM05_pKa1,,0.01,Mehtap Isik,nb015
+0.39,SM06,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),3.42,3.03,SM06_pKa1,,0.04,Mehtap Isik,nb015
+2.11,SM06,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),13.85,11.74,SM06_pKa2,,0.01,Mehtap Isik,nb015
+-1.25,SM07,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.83,6.08,SM07_pKa1,,0.01,Mehtap Isik,nb015
+-0.02,SM08,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.2,4.22,SM08_pKa1,,0.01,Mehtap Isik,nb015
+-1.37,SM09,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4,5.37,SM09_pKa1,,0.01,Mehtap Isik,nb015
+-1.25,SM10,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),7.77,9.02,SM10_pKa1,,0.01,Mehtap Isik,nb015
+-0.47,SM11,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),3.42,3.89,SM11_pKa1,,0.01,Mehtap Isik,nb015
+-1.27,SM12,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.01,5.28,SM12_pKa1,,0.01,Mehtap Isik,nb015
+-1.09,SM13,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.68,5.77,SM13_pKa1,,0.01,Mehtap Isik,nb015
+-1.65,SM14,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),0.93,2.58,SM14_pKa1,,0.01,Mehtap Isik,nb015
+1.1,SM14,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),6.4,5.3,SM14_pKa2,,0.01,Mehtap Isik,nb015
+0.21,SM15,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),4.91,4.7,SM15_pKa1,,0.01,Mehtap Isik,nb015
+1.7,SM15,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),10.64,8.94,SM15_pKa2,,0.01,Mehtap Isik,nb015
+0.24,SM16,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),5.61,5.37,SM16_pKa1,,0.01,Mehtap Isik,nb015
+3.33,SM16,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),13.98,10.65,SM16_pKa2,,0.01,Mehtap Isik,nb015
+-0.68,SM17,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),2.48,3.16,SM17_pKa1,,0.01,Mehtap Isik,nb015
+-0.6,SM18,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),1.55,2.15,SM18_pKa1,,0.02,Mehtap Isik,nb015
+-1.54,SM18,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),8.04,9.58,SM18_pKa2,,0.03,Mehtap Isik,nb015
+1.52,SM18,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),12.54,11.02,SM18_pKa3,,0.04,Mehtap Isik,nb015
+-1.67,SM19,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),7.89,9.56,SM19_pKa1,,0.02,Mehtap Isik,nb015
+1.5,SM20,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),7.2,5.7,SM20_pKa1,,0.03,Mehtap Isik,nb015
+-2.15,SM21,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),1.95,4.1,SM21_pKa1,,0.01,Mehtap Isik,nb015
+0.94,SM22,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),3.34,2.4,SM22_pKa1,,0.02,Mehtap Isik,nb015
+-0.04,SM22,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),7.39,7.43,SM22_pKa2,,0.01,Mehtap Isik,nb015
+-0.43,SM23,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),5.02,5.45,SM23_pKa1,,0.01,Mehtap Isik,nb015
+0.49,SM24,Chemicalize v18.23 (ChemAxon MarvinSketch v18.23),3.09,2.6,SM24_pKa1,,0.01,Mehtap Isik,nb015
+-0.53,SM01,ACD/pKa Classic,9,9.53,SM01_pKa1,0.2,0.01,Kiril Lanevskij,xmyhm
+-0.51,SM02,ACD/pKa Classic,4.52,5.03,SM02_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+1.15,SM03,ACD/pKa Classic,8.17,7.02,SM03_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+-0.89,SM04,ACD/pKa Classic,5.13,6.02,SM04_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+1.18,SM05,ACD/pKa Classic,5.77,4.59,SM05_pKa1,0.4,0.01,Kiril Lanevskij,xmyhm
+-1.06,SM06,ACD/pKa Classic,1.97,3.03,SM06_pKa1,0.1,0.04,Kiril Lanevskij,xmyhm
+-0.9,SM06,ACD/pKa Classic,10.84,11.74,SM06_pKa2,0.43,0.01,Kiril Lanevskij,xmyhm
+-0.57,SM07,ACD/pKa Classic,5.51,6.08,SM07_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+-0.29,SM08,ACD/pKa Classic,3.93,4.22,SM08_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+-0.59,SM09,ACD/pKa Classic,4.78,5.37,SM09_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+0.14,SM10,ACD/pKa Classic,9.16,9.02,SM10_pKa1,0.7,0.01,Kiril Lanevskij,xmyhm
+0.04,SM11,ACD/pKa Classic,3.93,3.89,SM11_pKa1,0.3,0.01,Kiril Lanevskij,xmyhm
+-0.84,SM12,ACD/pKa Classic,4.44,5.28,SM12_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+-0.76,SM13,ACD/pKa Classic,5.01,5.77,SM13_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+0.42,SM14,ACD/pKa Classic,3,2.58,SM14_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+-0.14,SM14,ACD/pKa Classic,5.16,5.3,SM14_pKa2,0.1,0.01,Kiril Lanevskij,xmyhm
+0.08,SM15,ACD/pKa Classic,4.78,4.7,SM15_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+0.13,SM15,ACD/pKa Classic,9.07,8.94,SM15_pKa2,0.26,0.01,Kiril Lanevskij,xmyhm
+-0.18,SM16,ACD/pKa Classic,5.19,5.37,SM16_pKa1,0.26,0.01,Kiril Lanevskij,xmyhm
+0.2,SM16,ACD/pKa Classic,10.85,10.65,SM16_pKa2,0.7,0.01,Kiril Lanevskij,xmyhm
+-2.17,SM17,ACD/pKa Classic,0.99,3.16,SM17_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+0.19,SM18,ACD/pKa Classic,2.34,2.15,SM18_pKa1,0.2,0.02,Kiril Lanevskij,xmyhm
+-0.19,SM18,ACD/pKa Classic,9.39,9.58,SM18_pKa2,0.5,0.03,Kiril Lanevskij,xmyhm
+0.35,SM19,ACD/pKa Classic,9.91,9.56,SM19_pKa1,0.7,0.02,Kiril Lanevskij,xmyhm
+0.31,SM20,ACD/pKa Classic,6.01,5.7,SM20_pKa1,0.1,0.03,Kiril Lanevskij,xmyhm
+0.14,SM21,ACD/pKa Classic,4.24,4.1,SM21_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+0.03,SM22,ACD/pKa Classic,2.43,2.4,SM22_pKa1,0.3,0.02,Kiril Lanevskij,xmyhm
+0.16,SM22,ACD/pKa Classic,7.59,7.43,SM22_pKa2,0.1,0.01,Kiril Lanevskij,xmyhm
+-0.09,SM23,ACD/pKa Classic,5.36,5.45,SM23_pKa1,0.1,0.01,Kiril Lanevskij,xmyhm
+2.14,SM24,ACD/pKa Classic,4.74,2.6,SM24_pKa1,0.4,0.01,Kiril Lanevskij,xmyhm
