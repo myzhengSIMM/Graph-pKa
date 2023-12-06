@@ -1,6 +1,6 @@
 # Multi-instance learning of graph neural networks for aqueous pKa prediction
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/guanjq/targetdiff/blob/main/LICIENCE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/myzhengSIMM/Graph-pKa/blob/main/LICENSE)
 
 This repository is the official implementation of Multi-instance learning of graph neural networks for aqueous pKa prediction. [[PDF]](https://academic.oup.com/bioinformatics/article/38/3/792/6395352) 
 
